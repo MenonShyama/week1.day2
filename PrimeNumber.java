@@ -28,34 +28,6 @@ public class PrimeNumber {
 				System.out.println("It is a Prime Number");
 			}
 		}
-//int input = 2;
-//boolean flag = false;
-//int j= input/2;
-//int i;
-//for(i=2;i<=j;i++)
-//{
-
-	//int remainder = input % i;
-	////System.out.println(remainder);
-	
-	//if(remainder == 0)
-	//{
-		//flag =true;
-		//System.out.println("not Prime");
-		//break;
-		//}
-	//System.out.println("break");
-
-		//else
-	//{
-		//System.out.println("  prime");
-		//break;
-		
-	//}
-	
-	
-		//}
-
 	}
 
 }
